@@ -14,7 +14,7 @@ This shiny app is partitioned into three different tabs. <br>
 1. Download "tab1example.png".
 2. In your R working directory, open a new folder named "www" and place the "tab1example.png" in it.
 3. Download all the files (app.R, server.R, ui.R) and run it on your local Rstudio app.
-4. To render the plots, some packages have to be installed and loaded. These packages should already be included in the shiny code, but just in case it's not working, following are the packages required:
+4. To render the plots, the following packages have to be installed and loaded. These packages should already be included in the shiny code, but in case it doesn't work, following are the packages required:
   - ***ggplot2:*** Violin plot
   - ***andrews:*** Andrew's Curve
   - ***treemap:*** Treemap
